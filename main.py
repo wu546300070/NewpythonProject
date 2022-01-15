@@ -25,4 +25,6 @@ if __name__ == '__main__':
     print_hi("这改")
     print_hi("xxxxxxxxxxxxxxxxxx")
     print_hi("yyyyyyyyyyyyyyyyyyy")
+    print_hi("aaaaaaaaaaaaaaaaa")
+    print_hi("bbbbbbbbbbbbbbbbbb")
 # 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助
