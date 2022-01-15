@@ -18,4 +18,6 @@ if __name__ == '__main__':
     print_hi("6666666777777777777777777777")
     print_hi("99999999999999999999999999999999")
     print_hi("99999999999999999999999999999999")
+    print_hi("这是第三处更改")
+    print_hi("这是第三处更改")
 # 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助
