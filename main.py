@@ -11,8 +11,5 @@ def print_hi(name):
 
 # 按间距中的绿色按钮以运行脚本。
 if __name__ == '__main__':
-    print("this is master branch")
-    print("this is master branch")
-    print("this is master branch")
-    print("this is master branch")
+    print("newmaster branch")
 # 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助
