@@ -23,4 +23,5 @@ if __name__ == '__main__':
     print_hi("yyyyyyyyyyyyyyyyyyyy")
     print_hi("aaaaaaaaaaaaaaaaa")
     print_hi("bbbbbbbbbbbbbbbbb")
+    print_hi("cccccccccccccccccc")
 # 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助
