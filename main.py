@@ -15,5 +15,6 @@ if __name__ == '__main__':
     print_hi("hhhhhhhhhhhhhhhhhhhhhhhhhhh")
     print_hi("wwwwwwwwwwwwwwwwwwwwwwww")
     print_hi("这是第三处更改")
-
+    print_hi("这是第三处更改")
+    print_hi("这是第三处更改")
 # 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助
