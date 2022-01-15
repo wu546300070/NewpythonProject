@@ -11,9 +11,8 @@ def print_hi(name):
 
 # 按间距中的绿色按钮以运行脚本。
 if __name__ == '__main__':
-    print_hi('PyCharm')
-    print_hi("hhhhhhhhhhhhhhhhhhhhhhhhhhh")
-    print_hi("wwwwwwwwwwwwwwwwwwwwwwww")
-    print_hi("这是第三处更改")
-    print_hi("6666666777777777777777777777")
+    print("this is master branch")
+    print("this is master branch")
+    print("this is master branch")
+    print("this is master branch")
 # 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助
